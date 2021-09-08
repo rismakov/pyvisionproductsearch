@@ -79,7 +79,6 @@ class ProductSearch:
             self.displayName = display_name
             self.labels = labels
             self.description = description
-            self.productId = product_id
             self.deleted = False
 
         @staticmethod
